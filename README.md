@@ -1,3 +1,18 @@
+# GithubDesktopZh-Tw-Tool
+
+本倉庫為 GitHubDesktop 繁體中文化工具。
+
+GitHubDesktop官網：https://desktop.github.com
+
+註：如果按下按鈕後出現中文化失敗，請再重試一次。
+
+## 版本 3.4.13
+
+請注意：您下載的原始 Github Desktop 版本應該要與與本中文化工具的版本相對應，否則中文化後 Github Desktop 可能會無法執行。
+
+
+---
+
 # GithubDesktopZhTool
 本仓库为GitHubDesktop汉化工具。
 
