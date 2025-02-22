@@ -10,7 +10,7 @@ GitHubDesktop官網：https://desktop.github.com
 
 請注意：您下載的原始 Github Desktop 版本應該要與與本中文化工具的版本相對應，否則中文化後 Github Desktop 可能會無法執行。
 
-
+此 repo 是 fork, 只修改了 Windows 目錄下的兩個檔案的中文化內容。在下載 .7z 的檔案解壓後, 把 Windows 目錄複製到解開的 .7z 目錄下的 Windows 裡。覆寫原來的兩個檔案即可。
 ---
 
 # GithubDesktopZhTool
